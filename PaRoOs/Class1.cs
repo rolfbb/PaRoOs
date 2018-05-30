@@ -8,5 +8,6 @@ namespace PaRoOs
     public class Class1
     {
         public int myNumber { get; set; }
+        public string MyWord { get; set; }
     }
 }
