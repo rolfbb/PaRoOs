@@ -10,5 +10,6 @@ namespace PaRoOs
         public int myNumber { get; set; }
         public string MyWord { get; set; }
         public int mySuperINt { get; set; }
+        public int MyProperty { get; set; }
     }
 }
